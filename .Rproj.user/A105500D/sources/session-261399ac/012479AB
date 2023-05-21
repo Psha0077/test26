@@ -12,6 +12,7 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
+<<<<<<< HEAD
         "cursorPosition": "6,8",
         "scrollLine": "0"
     },
@@ -21,6 +22,17 @@
     "collab_server": "",
     "source_window": "",
     "last_content_update": 1684681262044,
+=======
+        "cursorPosition": "2,17",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1684680954,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1684680954019,
+>>>>>>> branch2
     "read_only": false,
     "read_only_alternatives": []
 }
